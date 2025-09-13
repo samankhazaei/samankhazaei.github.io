@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD candidate in Biomedical Engineering program at New York University (NYU) Tandon School of Engineering, and I perform research under Dr. Rose Faghih’s supervision at Computational Medicine Lab (CML).
-My research lies at the nexus of theory, computing, and data, with applications in computational neuroscience and physiological signal processing. The main objective of my research is to model and decode the hidden brain and health state of interest from the available source of information. Due to the complex anatomy and physiology of the human brain and body, decoding these hidden states encounters challenges such as inter-individual and intra-individual variability and sparsity of training data. My research aims to address these challenges by employing personalized, automated, and system theoretic toolboxes that can decode the underlying states independent of training data and facilitate the intervention design process in a closed-loop architecture.
+I am a fourth-year PhD candidate in the Biomedical Engineering program at [New York University (NYU) Tandon School of Engineering] (https://engineering.nyu.edu/student/saman-khazaei), and I perform research under the supervision of [Dr. Rose Faghih](https://engineering.nyu.edu/faculty/rose-faghih) at the [Computational Medicine Lab (CML)](https://wp.nyu.edu/cml/).
+
+My research lies at the nexus of theory, computing, and data, with applications in computational neuroscience and physiological signal processing. The main objective of my research is to model and decode the hidden brain and health state of interest from the available source of information. Due to the complex anatomy and physiology of the human brain and body, decoding these hidden states encounters challenges such as inter-individual and intra-individual variability and sparsity of training data. My research aims to address these challenges by employing personalized, automated, and system-theoretic toolboxes that can decode the underlying states independent of training data and facilitate the intervention design process in a closed-loop architecture.
 
 {% comment %}
 A data-driven personal website
