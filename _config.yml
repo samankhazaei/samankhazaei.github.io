@@ -24,7 +24,7 @@ repository               : "samankhazaei/samankhazaei.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Saman Khazaei"
   #pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at NYU"
