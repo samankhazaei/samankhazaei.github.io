@@ -11,6 +11,7 @@ I am a fourth-year PhD candidate in the Biomedical Engineering program at [New Y
 
 My research lies at the nexus of theory, computing, and data, with applications in computational neuroscience and physiological signal processing. The main objective of my research is to model and decode the hidden brain and health state of interest from the available source of information. Due to the complex anatomy and physiology of the human brain and body, decoding these hidden states encounters challenges such as inter-individual and intra-individual variability and sparsity of training data. My research aims to address these challenges by employing personalized, automated, and system-theoretic toolboxes that can decode the underlying states independent of training data and facilitate the intervention design process in a closed-loop architecture.
 
+======
 
 Current Research
 ======
