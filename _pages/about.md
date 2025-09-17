@@ -16,7 +16,7 @@ My research lies at the nexus of theory, computing, and data, with applications 
 Current Research
 ======
 
-Modeling and Decoding Arousal State from Multimodal Behavioral and Phsysoligical Data
+Identifying the cognitive arousal-performance link during a working memory experiment
 ------
 ![My research figure](/images/research1.png) A
 
