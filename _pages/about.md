@@ -28,7 +28,7 @@ Current Research
     The cognitive arousal and performance are two hidden brain states that are linked closely, and the well-known Yerkes-Dodson law proposed a an inverted-U link between the arousal and performance states. This research decode these hidden states, and identify a mathematical model that can express the link between the decoded arousal and performance aligned with the Yerkes-Dodson law.
   </div>
 
-<img src="/images/IUL.png"
+<img src="/images/IUL_updt.png"
        alt="My research figure"
        style="width:250px; border-radius:6px;">
 </div>
