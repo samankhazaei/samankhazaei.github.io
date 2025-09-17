@@ -29,10 +29,30 @@ My research lies at the nexus of theory, computing, and data, with applications 
        style="width:250px; border-radius:6px;">
 </div>
 
-{% comment %}
+
 Current Research
 ======
 
+<div style="
+     background:#f5f5f5;
+     padding:20px;
+     border-radius:8px;
+     display:flex;
+     align-items:center;
+     gap:20px;">
+
+  <div style="flex:1;">
+    <strong>Identifying the cognitive arousal-performance link during a working memory experiment</strong><br>
+    This research explores …
+  </div>
+
+<img src="/images/IUL.pdf"
+       alt="My research figure"
+       style="width:250px; border-radius:6px;">
+</div>
+
+
+{% comment %}
 Identifying the cognitive arousal-performance link during a working memory experiment
 ------
 ![My research figure](/images/research1.png) A
