@@ -16,6 +16,10 @@ My research lies at the nexus of theory, computing, and data, with applications 
 Current Research
 ======
 
+Site-wide configuration
+------
+
+
 {% comment %}
 A data-driven personal website
 ======
