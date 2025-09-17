@@ -18,6 +18,7 @@ Current Research
 
 Site-wide configuration
 ------
+![My research figure](/images/research1.png) A
 
 
 {% comment %}
