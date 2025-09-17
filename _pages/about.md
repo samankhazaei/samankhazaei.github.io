@@ -34,9 +34,7 @@ Current Research
 </div>
 
 
-------
 
-Hi 
 
 {% comment %}
 Identifying the cognitive arousal-performance link during a working memory experiment
