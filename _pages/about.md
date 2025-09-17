@@ -12,16 +12,16 @@ I am a fourth-year PhD candidate in the Biomedical Engineering program at [New Y
 My research lies at the nexus of theory, computing, and data, with applications in computational neuroscience and physiological signal processing. The main objective of my research is to model and decode the hidden brain and health state of interest from the available source of information. Due to the complex anatomy and physiology of the human brain and body, decoding these hidden states encounters challenges such as inter-individual and intra-individual variability and sparsity of training data. My research aims to address these challenges by employing personalized, automated, and system-theoretic toolboxes that can decode the underlying states independent of training data and facilitate the intervention design process in a closed-loop architecture.
 
 
-
+{% comment %}
 Current Research
 ======
 
-Site-wide configuration
+Modeling and Decoding Arousal State from Multimodal Behavioral and Phsysoligical Data
 ------
 ![My research figure](/images/research1.png) A
 
 
-{% comment %}
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
