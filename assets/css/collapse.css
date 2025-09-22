@@ -15,3 +15,9 @@
     display: none;
     padding : 5px;
 }
+
+
+.navbar__toggle,
+.masthead__menu-item.theme-toggle {
+  display: none !important;
+}
