@@ -43,3 +43,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.theme-toggle,
+#theme-toggle,
+.site-toggle {
+  display: none !important;
+}
