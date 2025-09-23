@@ -43,15 +43,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-// Hide the dark mode toggle icon
-.theme-toggle,
-#theme-toggle,
-.dark-toggle,
-.light-toggle,
-button[title*="toggle"],
-button[title*="theme"],
-.masthead .theme-toggle-btn,
-.greedy-nav .theme-toggle {
-    display: none !important;
-}
