@@ -6,14 +6,16 @@
  *
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+#"theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+#    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
  */
 
 @import
     "vendor/breakpoint/breakpoint",
 
     "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+    "theme/{{ site.site_theme | default: 'default'}}",
+    "theme/{{ site.site_theme | default: 'default' }}",
 
     "include/mixins",
     "vendor/susy/susy",
