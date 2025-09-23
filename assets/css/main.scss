@@ -12,11 +12,11 @@
     "vendor/breakpoint/breakpoint",
 
     "themes",
-    #"theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    #"theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-   "theme/{{ site.site_theme | default: 'default'}}",
-    "theme/{{ site.site_theme | default: 'default' }}",
+    #"theme/{{ site.site_theme | default: 'default'}}",
+    #"theme/{{ site.site_theme | default: 'default' }}",
 
     "include/mixins",
     "vendor/susy/susy",
