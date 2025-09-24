@@ -15,12 +15,33 @@ My research lies at the nexus of theory, computing, and data, with applications 
 Selected Lines of Research
 ======
 
-![My research figure](/images/IUL_updt.png) The cognitive arousal and performance are two hidden brain states that are linked closely, and the well-known Yerkes-Dodson law proposed an inverted-U link between the arousal and performance states. This line of research decodes these hidden states and identifies a mathematical model that can express the link between the decoded arousal and performance aligned with the Yerkes-Dodson law.  
+<table>
+<tr>
+<td style="vertical-align: top;">
+Identifying the cognitive arousal-performance link during a working memory experiment 
+<br>
+The cognitive arousal and performance are two hidden brain states that are linked closely, and the well-known Yerkes-Dodson law proposed an inverted-U link between the arousal and performance states. This line of research decodes these hidden states and identifies a mathematical model that can express the link between the decoded arousal and performance aligned with the Yerkes-Dodson law.  
+</td>
+<td style="padding-left:20px;">
+<img src="/images/IUL_updt.png" alt="My research figure" style="width:250px; border-radius:8px;">
+</td>
+</tr>
+</table>
 
 
- <strong>Modeling and decoding the hidden performance state in an adaptive framework</strong><br>
- 
-![My research figure](/images/Performance.png) The cognitive performance state is often modeled by assuming a linear state model and time-invariant model parameters, such as process noise variance. Such assumptions may not resemble a real-world scenario in which the environmental stimuli can impact the hidden cognitive state and lead to a non-linear and time-varying process noise dynamic. This line of research explores the models and decoders that can account for the abovementioned impacts in a non-linear and time-varying paradigm. 
+<table>
+<tr>
+<td style="vertical-align: top;">
+Modeling and decoding the hidden performance state in an adaptive framework  
+<br>
+The cognitive performance state is often modeled by assuming a linear state model and time-invariant model parameters, such as process noise variance. Such assumptions may not resemble a real-world scenario in which the environmental stimuli can impact the hidden cognitive state and lead to a non-linear and time-varying process noise dynamic. This line of research explores the models and decoders that can account for the abovementioned impacts in a non-linear and time-varying paradigm. 
+</td>
+<td style="padding-left:20px;">
+<img src="/images/Performance.png" alt="My research figure" style="width:250px; border-radius:8px;">
+</td>
+</tr>
+</table>
+
 
 {% comment %}
 Identifying the cognitive arousal-performance link during a working memory experiment
