@@ -12,7 +12,7 @@ I am a fourth-year PhD candidate in the Biomedical Engineering program at [New Y
 My research lies at the nexus of theory, computing, and data, with applications in computational neuroscience and physiological signal processing. The main objective of my research is to model and decode the hidden brain and health state of interest from the available source of information. Due to the complex anatomy and physiology of the human brain and body, decoding these hidden states encounters challenges such as inter-individual and intra-individual variability and sparsity of training data. My research aims to address these challenges by employing personalized, automated, and system-theoretic toolboxes that can decode the underlying states independent of training data and facilitate the intervention design process in a closed-loop architecture.
 
 
-Current Research
+Selected Lines of Research
 ======
 
 <div style="
@@ -25,7 +25,9 @@ Current Research
 
   <div style="flex:1;">
     <strong>Identifying the cognitive arousal-performance link during a working memory experiment</strong><br>
-    The cognitive arousal and performance are two hidden brain states that are linked closely, and the well-known Yerkes-Dodson law proposed a an inverted-U link between the arousal and performance states. This research decode these hidden states, and identify a mathematical model that can express the link between the decoded arousal and performance aligned with the Yerkes-Dodson law.
+    The cognitive arousal and performance are two hidden brain states that are linked closely, and the well-known Yerkes-Dodson law proposed an inverted-U link between the arousal and performance states. This line of research decodes these hidden states and identifies a mathematical model that can express the link between the decoded arousal and performance aligned with the Yerkes-Dodson law.
+[Link to paper 1](https://par.nsf.gov/servlets/purl/10322321)
+[Link to paper 2](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10474164)   
   </div>
 
 <img src="/images/IUL_updt.png"
