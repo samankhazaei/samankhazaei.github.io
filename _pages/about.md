@@ -15,24 +15,38 @@ My research lies at the nexus of theory, computing, and data, with applications 
 Selected Lines of Research
 ======
 
- <div style="flex:1;">
+<!-- Block 1 -->
+<div style="display:flex; align-items:flex-start; margin-bottom:2em;">
+  <!-- Left: Figure -->
+  <div style="flex:0 0 260px; margin-right:20px;">
+    <img src="/images/IUL_updt.png"
+         alt="My research figure"
+         style="width:100%; border-radius:6px;">
+  </div>
+
+  <!-- Right: Text -->
+  <div style="flex:1;">
     <strong>Identifying the cognitive arousal-performance link during a working memory experiment</strong><br>
-    The cognitive arousal and performance are two hidden brain states that are linked closely, and the well-known Yerkes-Dodson law proposed an inverted-U link between the arousal and performance states. This line of research decodes these hidden states and identifies a mathematical model that can express the link between the decoded arousal and performance aligned with the Yerkes-Dodson law.  
+    The cognitive arousal and performance are two hidden brain states that are linked closely, and the well-known Yerkes-Dodson law proposed an inverted-U link between the arousal and performance states. This line of research decodes these hidden states and identifies a mathematical model that can express the link between the decoded arousal and performance aligned with the Yerkes-Dodson law.
+  </div>
+</div>
 
 
-<img src="/images/IUL_updt.png"
-       alt="My research figure"
-       style="width:250px; border-radius:6px;">
+<!-- Block 2 -->
+<div style="display:flex; align-items:flex-start; margin-bottom:2em;">
+  <!-- Left: Figure -->
+  <div style="flex:0 0 260px; margin-right:20px;">
+    <img src="/images/Performance.png"
+         alt="My research figure"
+         style="width:100%; border-radius:6px;">
+  </div>
 
-
-<div style="flex:1;">
-    <strong>Modeling and decoding the hidden performance state in an adaptive framework  </strong><br>
-    The cognitive performance state is often modeled by assuming a linear state model and time-invariant model parameters, such as process noise variance. Such assumptions may not resemble a real-world scenario in which the environmental stimuli can impact the hidden cognitive state and lead to a non-linear and time-varying process noise dynamic. This line of research explores the models and decoders that can account for the abovementioned impacts in a non-linear and time-varying paradigm.  
-
-
-<img src="/images/Performance.png"
-       alt="My research figure"
-       style="width:250px; border-radius:6px;">
+  <!-- Right: Text -->
+  <div style="flex:1;">
+    <strong>Modeling and decoding the hidden performance state in an adaptive framework</strong><br>
+    The cognitive performance state is often modeled by assuming a linear state model and time-invariant model parameters, such as process noise variance. Such assumptions may not resemble a real-world scenario in which the environmental stimuli can impact the hidden cognitive state and lead to a non-linear and time-varying process noise dynamic. This line of research explores the models and decoders that can account for the abovementioned impacts in a non-linear and time-varying paradigm.
+  </div>
+</div>
 
 
 
