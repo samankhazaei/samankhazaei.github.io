@@ -25,6 +25,20 @@ Selected Lines of Research
        style="width:250px; border-radius:6px;">
 </div>
 
+<div style="flex:1;">
+    <strong>Modeling and decoding the hidden performance state in an adaptive framework  </strong><br>
+    The cognitive performance state is often modeled by assuming a linear state model and time-invariant model parameters, such as process noise variance. Such assumptions may not resemble a real-world scenario in which the environmental stimuli can impact the hidden cognitive state and lead to a non-linear and time-varying process noise dynamic. This line of research explores the models and decoders that can account for the abovementioned impacts in a non-linear and time-varying paradigm.  
+  </div>
+
+<img src="/images/Performance.png"
+       alt="My research figure"
+       style="width:250px; border-radius:6px;">
+</div>
+
+
+
+
+{% comment %}
 <table>
 <tr>
 <td style="vertical-align: top;">
@@ -51,7 +65,7 @@ The cognitive performance state is often modeled by assuming a linear state mode
 </td>
 </tr>
 </table>
-
+{% endcomment %}
 
 {% comment %}
 Identifying the cognitive arousal-performance link during a working memory experiment
