@@ -15,6 +15,7 @@ My research lies at the nexus of theory, computing, and data, with applications 
 Selected Lines of Research
 ======
 
+
 <!-- Block 1 -->
 <div style="display:flex; align-items:flex-start; margin-bottom:2em;">
   <!-- Left: Figure -->
